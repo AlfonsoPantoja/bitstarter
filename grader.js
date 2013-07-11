@@ -23,6 +23,7 @@ References:
 */
 
 var fs = require('fs');
+var request = require('request');
 var program = require('commander');
 var cheerio = require('cheerio');
 var HTMLFILE_DEFAULT = "index.html";
