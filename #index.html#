@@ -9,8 +9,8 @@
     <link href="http://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700,300italic,400italic,500italic,700italic" rel="stylesheet" type="text/css">
     <link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700,800" rel="stylesheet" type="text/css">
     <script src="bootstrap/js/bootstrap.js"></script>
-  <!--  <script src="jque
-  <script src="jquery/js/jquery-2.0.3.min.js"></script>
+
+    <script src="jquery/js/jquery-2.0.3.min.js"></script>
     
     <style type="text/css">
 
@@ -120,7 +120,7 @@
     <div class="navbar navbar-inverse navbar-fixed-top">
           <div class="navbar-inner">
             <div class="container">
-              <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collaps">
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
