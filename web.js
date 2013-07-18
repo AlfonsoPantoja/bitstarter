@@ -16,9 +16,7 @@ var getContentFromFile = function (filename) {
 };
 
 
-app.use(express.static(__dirname + '/bootstrap'));
-app.use(express.static(__dirname + '/jquery'));
-app.use(express.static(__dirname + '/font-awesome'));
+app.use(express.static(__dirname + '/public'));
 
 app.get('/', function(request, response) {
 
